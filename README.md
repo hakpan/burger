@@ -13,5 +13,7 @@ User enters burger name and it will display on the screen with a devour button n
 
 **Demo**
 
+![Alt Text](https://media.giphy.com/media/nwtEhE4UMxwj7BrmsV/giphy.gif)
+
 
 
